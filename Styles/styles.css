@@ -121,27 +121,27 @@ section {
 
 /* Background images */
 .section-a {
-    background-image: url(section-a.webp);
+    background-image: url(../Images/section-a.webp);
 }
 
 .section-b {
-    background-image: url(section-b.webp);
+    background-image: url(../Images/section-b.webp);
 }
 
 .section-c {
-    background-image: url(section-c.webp);
+    background-image: url(../Images/section-c.webp);
 }
 
 .section-d {
-    background-image: url(section-d.webp);
+    background-image: url(../Images/section-d.webp);
 }
 
 .section-e {
-    background-image: url(section-e.webp);
+    background-image: url(../Images/section-e.webp);
 }
 
 .section-f {
-    background-image: url(section-f.webp);
+    background-image: url(../Images/section-f.webp);
 }
 
 .btn {
@@ -343,15 +343,15 @@ footer ul li a:hover {
 
 /* Inner Pages */
 .bg-falcon-9 {
-    background-image: url('falcon-9.webp');
+    background-image: url('../Images/falcon-9.webp');
 }
 
 .bg-falcon-heavy {
-    background-image: url('falcon-heavy.webp');
+    background-image: url('../Images/falcon-heavy.webp');
 }
 
 .bg-dragon {
-    background-image: url('dragon.webp');
+    background-image: url('../Images/dragon.webp');
 }
 
 .section-animate {
