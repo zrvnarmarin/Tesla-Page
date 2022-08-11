@@ -1,6 +1,7 @@
 const btn = document.getElementById('menu-btn')
 const overlay = document.getElementById('overlay')
 const sideMenu = document.getElementById('mobile-menu')
+const counters = document.querySelectorAll('counter')
 
 btn.addEventListener('click', navToggle)
 
@@ -10,3 +11,5 @@ function navToggle() {
     document.body.classList.toggle('stop-scrolling')
     sideMenu.classList.toggle('show-menu')
 }
+
+console.log(counters)
